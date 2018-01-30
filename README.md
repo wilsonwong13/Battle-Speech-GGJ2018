@@ -1,1 +1,2 @@
-# Battle-Speech-GGJ2018
+# ggj2018
+Global Game Jam 2018
